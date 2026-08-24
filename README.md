@@ -1,23 +1,34 @@
 ## Hi, I'm Winner Dimiri
 
 ---
-I’m a Data Analyst with a great passion in transforming raw numbers into clear, actionable insights and data-driven strategies for more profitable decisions. My focus is on clarity, strategy, and measurable business impact - not just showing data, but telling stories that drive results.
+Technical & Operations Support | IT Support | Business Systems | Data Analytics | Process Improvement & Automation
 ---
+I work at the intersection of technology, operations, and data, with a focus on understanding business problems, improving processes, and building practical solutions that help teams work smarter.
 
-## WHAT I DO AS A DATA ANALYST
-- **Data Cleaning & Organization:** Using Excel, Google Sheets, and SQL to clean, structure, and prepare data for accurate, reliable analysis.
-- **Data Analysis & Insight Discovery:** Tracking KPIs, uncovering trends, and identifying opportunities using SQL, Excel, and Google Sheets.
-- **Business Intelligence Reporting:** Designing interactive dashboards and reports in Excel, Power BI, Tableau, and Looker Studio that reveal patterns, trends, and performance metrics in real time.
-- **Data-Driven Decision Support:** Delivering clear, actionable insights that empower smarter, faster, and more profitable business decisions.
-- **Typing & Documentation Proficiency:** With a typing speed of 50+ WPM and at least 97% accuracy, I ensure efficiency, precision, and speed in handling large datasets, documentation, and reporting workflows.
+My experience spans Operations Support, IT Support, business systems, data analytics, reporting, workflow automation, and process improvement. In my current role at Husk Power Systems, I support energy operations and have built/improved maintenance notification workflows, reporting processes, maintenance trackers, and performance dashboards to improve visibility, streamline workflows, and support better operational decisions.
 
+
+## WHAT I WORK WITH
+- **IT & Business Systems:** Freshdesk, Zendesk, Intercom, HubSpot, Slack, Microsoft Teams, Google Drive, OneDrive, Loom
+
+- **Data & Business Intelligence:** Excel, SQL, Power BI, Tableau, Looker Studio, Python, R, Google Sheets
+
+- **Automation & Workflow:** Zapier, Make, Excel VBA, Trello, Monday.com, ClickUp, Asana, Airtable
 ---
-## MY TOOLS & EXPERTISE
-- **Data Cleaning & Querying:** SQL, Excel, Google Sheets
-- **Data Visualization & BI Dashboards:** Excel, Power BI, Tableau, Looker Studio
-- **Automation & Efficiency:** Excel VBA, Zapier, Make.com
-- **Web & Marketing Analytics:** Google Analytics, A/B Testing, KPI Tracking
-- **Insight Generation:** Business performance analysis, trend discovery, profitability insights
+## MY APPROACH
+
+I’m less interested in simply knowing how a tool works than in understanding what it can make possible.
+
+**I ask:**
+- What problem are we solving?
+- How does the system work? 
+- Where is the bottleneck? 
+- What does the data tell us? 
+- How can technology make it better?
+
+I’m continuously learning, building, and experimenting across technology, operations, data, automation, and AI, with a focus on turning knowledge into useful, practical solutions.
+
+Good work starts with understanding the problem. Better solutions come from understanding the system behind it.
 <!--
 **Winner-Dimiri/Winner-Dimiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
